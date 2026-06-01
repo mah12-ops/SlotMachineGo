@@ -46,6 +46,6 @@ func main() {
 		balance -= bet
 	}
 
-	fmt.Printf("You have left with , $%d", balance)
+	fmt.Printf("You have left with : $%d", balance)
 
 }
