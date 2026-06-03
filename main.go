@@ -5,7 +5,7 @@ import "fmt"
 func getName() string {
 	name := ""
 
-	fmt.Println("welcoeme to mercy's game")
+	fmt.Println("welcome to mercy's game")
 	fmt.Printf("Enter your name : ")
 	_, err := fmt.Scanln(&name)
 
